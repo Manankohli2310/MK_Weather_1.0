@@ -1,0 +1,4 @@
+MK Weather 1.0
+
+This Software designed by Manan Kohli, is an Advanced AI-Powered Weather Application it will provide you the weather info. for the City entered.
+ 

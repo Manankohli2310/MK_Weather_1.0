@@ -1,0 +1,18 @@
+MK Weather 1.0
+
+This Software designed by Manan Kohli, is an Advanced AI-Powered Weather Application it will provide you the weather info. for the City entered.
+ 
+Features:-
+(i) 'Double space' to acess search bar
+(ii) Press 'enter' to get the weather
+     details 
+(iii) It speaks the Current Weather for
+     the city
+(iv) Click on 'voice button' to get more 
+     details onthe weather forecast of the
+     city entered thrugh voice
+(v) Click on 'info button' to access this
+     page
+(vi) Get Error message when entered wrong 
+     city or weather not found
+      
